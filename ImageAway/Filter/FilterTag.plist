@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Living Room</string>
+		<string>Parlor</string>
+		<string>Living</string>
+	</array>
+	<array>
+		<string>Corridor</string>
+		<string>Corridor</string>
+	</array>
+	<array>
+		<string>Kitchen</string>
+		<string>Kitchen</string>
+		<string>Sink</string>
+	</array>
+	<array>
+		<string>Patio</string>
+		<string>Patio</string>
+	</array>
+	<array>
+		<string>Dinning Room</string>
+		<string>Dinning</string>
+		<string>Dinette</string>
+	</array>
+	<array>
+		<string>Wash Rooms</string>
+		<string>Toilet</string>
+		<string>Basin</string>
+	</array>
+	<array>
+		<string>Bed Rooms</string>
+		<string>Bed</string>
+		<string>Sleeping</string>
+		<string>Suite</string>
+	</array>
+	<array>
+		<string>Bath Room</string>
+		<string>Bath</string>
+		<string>Shower</string>
+	</array>
+	<array>
+		<string>Pool</string>
+		<string>Pool</string>
+	</array>
+</array>
+</plist>
